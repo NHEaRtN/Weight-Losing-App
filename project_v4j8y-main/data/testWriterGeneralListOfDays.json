@@ -1,0 +1,12 @@
+{"List Of Days": [
+  {
+    "ListOfExercise": [{
+      "calorie": 200,
+      "exercise": "swimming"
+    }],
+    "ListOfFood": [{
+      "foodName": "chicken",
+      "foodCalories": 1000
+    }]
+  }
+  ]}

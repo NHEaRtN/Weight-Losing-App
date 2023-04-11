@@ -1,0 +1,81 @@
+{"List Of Days": [
+  {
+    "ListOfExercise": [{
+      "calorie": 200,
+      "exercise": "swimming"
+    }],
+    "ListOfFood": [{
+      "foodName": "chicken",
+      "foodCalories": 1000
+    }]
+  },
+  {
+    "ListOfExercise": [
+      {
+        "calorie": 100,
+        "exercise": "running"
+      },
+      {
+        "calorie": 3000,
+        "exercise": "basketball"
+      }
+    ],
+    "ListOfFood": [
+      {
+        "foodName": "chiekcn",
+        "foodCalories": 2941
+      },
+      {
+        "foodName": "rice",
+        "foodCalories": 200
+      }
+    ]
+  },
+  {
+    "ListOfExercise": [{
+      "calorie": 5201314,
+      "exercise": "zzl"
+    }],
+    "ListOfFood": [{
+      "foodName": "bread",
+      "foodCalories": 100
+    }]
+  },
+  {
+    "ListOfExercise": [{
+      "calorie": 2,
+      "exercise": "sample"
+    }],
+    "ListOfFood": [{
+      "foodName": "SAMPLE",
+      "foodCalories": 100
+    }]
+  },
+  {
+    "ListOfExercise": [{
+      "calorie": 300,
+      "exercise": "running"
+    }],
+    "ListOfFood": [{
+      "foodName": "chicken",
+      "foodCalories": 1000
+    }]
+  },
+  {
+    "ListOfExercise": [{
+      "calorie": 2003,
+      "exercise": "swimming"
+    }],
+    "ListOfFood": [{
+      "foodName": "chicken",
+      "foodCalories": 200
+    }]
+  },
+  {
+    "ListOfExercise": [],
+    "ListOfFood": [{
+      "foodName": "32",
+      "foodCalories": 32
+    }]
+  }
+]}
